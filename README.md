@@ -15,7 +15,7 @@ The goal of this project was to apply foundational web development skills to des
 ## 🔗 Live Demo
 
 Check the live version of this project here:  
-[https://manojkoushik5.github.io/Internship-Page-Recreation](https://manojkoushik5.github.io/Internship-Page-Recreation) 
+[https://manojkoushik5.github.io/-Internship-Page-Recreation](https://manojkoushik5.github.io/-Internship-Page-Recreation) 
 ---
 
 ## 🧩 Features
