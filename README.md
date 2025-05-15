@@ -28,7 +28,8 @@ Check the live version of this project here:
 ---
 
 ## 📁 Project Structure
-
+index.html
+style.css
 
 ---
 
